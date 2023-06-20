@@ -1,0 +1,22 @@
+.card-hover:hover {
+border-color: green !important;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+transition: box-shadow 0.3s ease;
+}
+
+.btn-hover:hover {
+    color: white !important;
+}
+
+.round-button {
+    border-radius: 20px !important;
+  }
+
+  .navbar-logo {
+    max-height: 100px; /* Adjust the height as per your requirements */
+    width: auto;
+  }
+
+  .navbar-number{
+    color: rgb(37, 58, 71);
+  }
